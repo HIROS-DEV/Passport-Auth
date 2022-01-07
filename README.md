@@ -14,28 +14,24 @@ https://www.youtube.com/watch?v=sakQbeRjgwg&list=PL4cUxeGkcC9jdm7QX143aMLAqyM-jT
 
 ## Purpose of the project
 
-Get the knowledge of Next.js Fundamentals and how to connect with GraphQL
+Get the knowledge of Passport.js Fundamentals and how to use it.
 
 ## Demo
 
-https://nextjs-with-graphql-nkl2qqn86-hiros-dev.vercel.app/
+Sorry, not Demo on thie project...
 
 ## What did I learn from this project?
 
-<p>Next.js Fundamentals</p>
-<p>How to use Next.js with Chakra UI</p>
-<p>How to use Next.js with GraphQL</p>
+<p>Passport.js Fundamentals</p>
+<p>Passport.js OAuth Google</p>
 
 ## Impressions
 
-It is my first Next.js project with GraphQL.
-(It is my first time to use Chakra UI, also)
+I got some knowledge of Passort.js through the project.
+But, Ummm...
+I think it is not adequate for the master of Passort.js.
 
-These days, I am learning GraphQL and I noticed GraphQL is terrific.
-I would like to know more about GraphQL, so I took the Course.
-
-Against all expectations, this course does not teach about GraphQL.
-But, anyway, I am generally satisfied with the content.
-(Of course, I would like to learn more about GraphQL though)
+In the near future, I will try to create my own project with Passoport.js.
+I think it is diffcult for me, but anyway I have to try.
 
 Thank you for reading. And, happy coding!!!
