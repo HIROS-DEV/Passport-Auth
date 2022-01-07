@@ -10,7 +10,7 @@ OAuth Login (Passport.js) Tutorial: The Net Ninja
 https://www.youtube.com/watch?v=sakQbeRjgwg&list=PL4cUxeGkcC9jdm7QX143aMLAqyM-jTZ2x&index=1
 
 ## Screen Shot
-<img src=".server/images/desktop.png"/>
+<img src="/server/images/desktop.png"/>
 
 ## Purpose of the project
 
