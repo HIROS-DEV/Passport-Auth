@@ -18,7 +18,7 @@ Get the knowledge of Passport.js Fundamentals and how to use it.
 
 ## Demo
 
-Sorry, not Demo on thie project...
+Sorry, not Demo...
 
 ## What did I learn from this project?
 
